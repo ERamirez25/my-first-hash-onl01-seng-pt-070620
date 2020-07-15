@@ -33,5 +33,5 @@ def adding
    return shipping_manifest
     << ["gun powder"] = 4
     
-
+end 
 end
