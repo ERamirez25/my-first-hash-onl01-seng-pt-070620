@@ -5,8 +5,9 @@ end
 
 
 def shipping_manifest
+  shipping_manifest = 
   
-  vases" => 2, "oil paintings" => 3}
+
        
 
 end
